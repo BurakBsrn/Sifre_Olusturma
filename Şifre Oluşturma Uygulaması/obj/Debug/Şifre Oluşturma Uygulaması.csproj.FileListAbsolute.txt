@@ -1,0 +1,8 @@
+C:\Users\burak\source\repos\Şifre Oluşturma Uygulaması\Şifre Oluşturma Uygulaması\bin\Debug\Şifre Oluşturma Uygulaması.exe.config
+C:\Users\burak\source\repos\Şifre Oluşturma Uygulaması\Şifre Oluşturma Uygulaması\bin\Debug\Şifre Oluşturma Uygulaması.exe
+C:\Users\burak\source\repos\Şifre Oluşturma Uygulaması\Şifre Oluşturma Uygulaması\bin\Debug\Şifre Oluşturma Uygulaması.pdb
+C:\Users\burak\source\repos\Şifre Oluşturma Uygulaması\Şifre Oluşturma Uygulaması\obj\Debug\Şifre Oluşturma Uygulaması.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\Şifre Oluşturma Uygulaması\Şifre Oluşturma Uygulaması\obj\Debug\Şifre Oluşturma Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\burak\source\repos\Şifre Oluşturma Uygulaması\Şifre Oluşturma Uygulaması\obj\Debug\Şifre Oluşturma Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\Şifre Oluşturma Uygulaması\Şifre Oluşturma Uygulaması\obj\Debug\Şifre Oluşturma Uygulaması.exe
+C:\Users\burak\source\repos\Şifre Oluşturma Uygulaması\Şifre Oluşturma Uygulaması\obj\Debug\Şifre Oluşturma Uygulaması.pdb
